@@ -61,4 +61,4 @@ The app will open automatically in your browser at `http://localhost:8501`.
 
 ## 🙋 Author
 
-Built by **Ayush jain** — feel free to connect on [LinkedIn](#) or check out more of my work on [GitHub](https://github.com/Ayush 05).
+Built by **Ayush jain** — feel free to connect on [LinkedIn](#) or check out more of my work on [GitHub](https://github.com/AyushJain-5).
