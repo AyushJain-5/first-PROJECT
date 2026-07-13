@@ -59,10 +59,6 @@ The app will open automatically in your browser at `http://localhost:8501`.
 - Translating a CLI-based script into an interactive web UI
 - Structuring a Streamlit app with reusable components and custom styling
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙋 Author
 
-Built by **[Your Name]** — feel free to connect on [LinkedIn](#) or check out more of my work on [GitHub](https://github.com/<your-username>).
+Built by **Ayush jain** — feel free to connect on [LinkedIn](#) or check out more of my work on [GitHub](https://github.com/Ayush 05).
